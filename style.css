@@ -159,8 +159,8 @@ footer p {
     background-color: rgb(238, 172, 185);
     display: flex;
     flex-direction: column;
-    /* width: 100vw; 
-        height: 80vh; */
+    width: 100vw; 
+        height: 80vh;
     justify-content: space-around;
     align-items: center;
   }
